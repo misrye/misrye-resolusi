@@ -1,0 +1,4 @@
+Misrye Resolusi
+- Belajar Git dan Github
+- Belajar Javascript DOM
+- Belajar Membuat website dengan mengikuti tutorial membuat website kopi berdasarkan tutorial yang ada pada channel WPU Unpas
